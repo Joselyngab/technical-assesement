@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "sofia-pro";
+  src: url("fonts/sofia-pro/Sofia\ Pro\ Light\ Az.otf");
+}
+
+body {
+  font-family: "sofia-pro" !important;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
